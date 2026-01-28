@@ -1,8 +1,14 @@
-# StockCast - Issues & Sugestões
+![StockCast Banner](./banner.jpg)
 
-<img src="https://img.shields.io/badge/status-ativo-brightgreen" alt="Status"> <img src="https://img.shields.io/badge/plataforma-iOS%20%7C%20Android-blue" alt="Plataforma">
+# 📊 StockCast - Issues & Sugestões
+
+<img src="https://img.shields.io/badge/status-ativo-brightgreen" alt="Status"> <img src="https://img.shields.io/badge/plataforma-iOS%20%7C%20Android-blue" alt="Plataforma"> <img src="https://img.shields.io/badge/versão-1.0.1-orange" alt="Versão">
+
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=br.eng.jebertacchi.StockCast)
 
 Este é o repositório oficial para **reportar bugs, solicitar funcionalidades e acompanhar melhorias** do aplicativo **StockCast**.
+
+---
 
 ## 📱 Sobre o StockCast
 
@@ -66,6 +72,24 @@ Para manter um ambiente colaborativo e respeitoso:
 - **App Store**: (não disponível, por enquanto)
 - **Google Play**: [https://play.google.com/store/apps/details?id=br.eng.jebertacchi.StockCast]
 
+## 📝 Changelog
+
+### v1.0.1 (Janeiro 2026)
+- ✅ Biblioteca Completa B3: Acesso a áudio de centenas de empresas brasileiras
+- ✅ Organização por Trimestre: Encontre facilmente os resultados de Q1, Q2, Q3 e Q4 de cada ano
+- ✅ Player Inteligente: Controle de velocidade, salva posição de pausa e interface intuitiva
+- ✅ Modo Offline: Baixe conferências e ouça sem usar seus dados ou precisar de conexão
+- ✅ Busca Rápida: Localize sua empresa favorita (Vale, Petrobras, Itaú, Magalu, etc.) em segundos
+- ✅ Atualizações Constantes: Novos áudios adicionados imediatamente após lançamento oficial
+
+**Em desenvolvimento:**
+- Busca por transcrições: pesquise menções de "margem", "dividendos" e outros termos em todas as conferências
+- Carrossel "Mais ouvidas pela comunidade" na Home
+- Card "Continue ouvindo" para retomar última conferência
+- Notificações quando empresas favoritas lançam novas conferências
+- Controles de velocidade de reprodução (1.25x, 1.5x, 2x)
+- Suporte para Android Auto e CarPlay
+
 ## 📄 Licença
 
 Este repositório é destinado apenas ao rastreamento de issues. O código-fonte do StockCast é proprietário.
@@ -73,3 +97,7 @@ Este repositório é destinado apenas ao rastreamento de issues. O código-fonte
 ---
 
 **Nota**: Este é um projeto em desenvolvimento ativo. Agradecemos sua paciência e contribuições para tornar o StockCast cada vez melhor! 🚀
+
+---
+
+**Tags**: `earnings`, `b3`, `audio`, `fintech`, `react-native`, `investimentos`
